@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+*
+{
+	font-family: "Athiti", serif;
+}
+.options
+{
+	display:flex;
+	flex-direction:column;
+}
+blockquote
+{
+	Max-width:600px;
+	Margin:10px;
+	Padding: 15px;
+	Border-left: 8px solid green;
+	Background-color:#f8fffe;
+	
+	
+}
